@@ -33,4 +33,9 @@ InternMate reduces the time and effort spent searching for internships and caree
 
 ![image alt](https://github.com/arpitm169/InternMate/blob/528c80017a5fa92c5dba1479444360fa4f39fce5/1.png)
 
+![image alt]()
+
+![image alt]()
+
+
 
