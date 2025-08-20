@@ -1,54 +1,32 @@
+Internship Support Chatbot
+Problem Statement
 
+Students often struggle to find reliable internship opportunities and guidance. They face challenges like understanding eligibility criteria, application procedures, and available options in a limited time. Our Internship Support Chatbot simplifies this process by providing instant, personalized assistance for internship-related queries.
 
-**Use your preferred IDE**
+Current Progress Status
 
-If you want to work locally using your own IDE, you can clone this repo and push changes.
+✅ Backend fully set up with Express.js and CORS for cross-origin requests.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+✅ Integrated Google Gemini Generative AI for intelligent, real-time responses.
 
-Follow these steps:
+✅ /chat API endpoint ready and tested.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+✅ Frontend is connected and functional (React.js)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+How the Prototype Solves the Problem
 
-# Step 3: Install the necessary dependencies.
-npm i
+The chatbot accepts user queries related to internships, processes them using Google’s Gemini Generative AI model, and responds with relevant, context-aware guidance. Users can get advice, tips, and suggested opportunities instantly, reducing the time and effort spent searching online.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Technologies/Tools Used
 
-**Edit a file directly in GitHub**
+Backend: Node.js, Express.js
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Frontend: React.js
 
-**Use GitHub Codespaces**
+Environment Management: dotenv
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Cross-Origin Requests: CORS
 
-## What technologies are used for this project?
+AI Integration: Google Generative AI (Gemini API)
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Other Tools: VS Code, Postman (for testing API)
