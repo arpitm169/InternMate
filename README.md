@@ -1,5 +1,6 @@
 Internship Support Chatbot
-Problem Statement
+
+Problem Statement:
 
 Students often struggle to find reliable internship opportunities and guidance. They face challenges like understanding eligibility criteria, application procedures, and available options in a limited time. Our Internship Support Chatbot simplifies this process by providing instant, personalized assistance for internship-related queries.
 
@@ -30,3 +31,4 @@ Cross-Origin Requests: CORS
 AI Integration: Google Generative AI (Gemini API)
 
 Other Tools: VS Code, Postman (for testing API)
+
