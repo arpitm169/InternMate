@@ -29,3 +29,8 @@ InternMate reduces the time and effort spent searching for internships and caree
 - 🛡️ Add user authentication and security features
 - 📝 Expand API documentation and add more usage examples
 
+
+
+![image alt](https://github.com/arpitm169/InternMate/blob/528c80017a5fa92c5dba1479444360fa4f39fce5/1.png)
+
+
