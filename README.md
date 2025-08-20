@@ -26,7 +26,6 @@ InternMate reduces the time and effort spent searching for internships and caree
 
 - 🧠 Train the AI model based on specific internship domains and user profiles
 - 📊 Improve recommendation accuracy for internship opportunities
-- 🛡️ Add user authentication and security features
 - 📝 Expand API documentation and add more usage examples
 
 
@@ -36,6 +35,7 @@ InternMate reduces the time and effort spent searching for internships and caree
 ![image alt](https://github.com/arpitm169/InternMate/blob/7aef40f9ef75ef0f46f914ebf2d47c1b14788750/2.png)
 
 ![image alt](https://github.com/arpitm169/InternMate/blob/a5b1e89e8812ecf614889c08e5300a845b178d94/3.png)
+
 
 
 
