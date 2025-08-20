@@ -21,3 +21,11 @@ InternMate reduces the time and effort spent searching for internships and caree
 - **Cross-Origin Requests:** CORS
 - **AI Integration:** Google Generative AI (Gemini API)
 - **Development Tools:** VS Code, Postman
+
+## ⏳ Pending Work
+
+- 🧠 Train the AI model based on specific internship domains and user profiles
+- 📊 Improve recommendation accuracy for internship opportunities
+- 🛡️ Add user authentication and security features
+- 📝 Expand API documentation and add more usage examples
+
